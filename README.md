@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   
 - 🌱 I am currently exploring cloud platforms while going through AWS Cloud Practitioner Essentials course
   
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/adsch)
+- 📬 How to reach me:
+
+  [![Linkedin Badge](https://img.shields.io/badge/-andrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adsch/)](https://www.linkedin.com/in/adsch/)
 
 ---
 
