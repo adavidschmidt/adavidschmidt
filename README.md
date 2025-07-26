@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-- 🔭 I'm currently a data analyst/engineer want-to-be working on side projects and learning new tools
+- 🔭 I'm currently an automation developer working on side projects and learning new tools
   
-- 🌱 I am currently exploring cloud platforms while going through AWS Cloud Practitioner Essentials course
+- 🌱 I am currently exploring cloud platforms while going through backend development courses
   
 - 📬 How to reach me:
 
